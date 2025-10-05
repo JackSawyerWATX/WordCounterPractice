@@ -44,4 +44,4 @@ Type an answer and press Enter. The script will echo your response.
 License
 This project has no license file. Add one if you plan to share the code publicly.
 
-I love you all! Happy coding!
+### I love you all! Happy coding!
